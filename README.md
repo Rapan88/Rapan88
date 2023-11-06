@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Rapan88/Rapan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 😺 &nbsp;About Me </h3>
 
-Here are some ideas to get you started:
+- 📖 &nbsp; Exploring new technologies
+- 🌍 &nbsp; Studing foreign languages
+- 👨‍💻 &nbsp; Currently working with frontend
+- 🚀 &nbsp; Learning more about Java Script ecosystem
+  <br/>
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladLennin)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 &nbsp;Tech Stack
+
+#### Familiar languages
