@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I`m Anton 👋
 
 <h3> 😺 &nbsp;About Me </h3>
 
